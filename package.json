@@ -1,7 +1,7 @@
 {
   "name": "com.phenomenal.muco-unity-guardian",
   "displayName": "MUCO Unity Guardian",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This is a guardian for MUCO Experiences",
   "unity": "2020.3",
   "documentationUrl": "https://github.com/phenomenalviborg/MUCO-Unity-Guardian",
